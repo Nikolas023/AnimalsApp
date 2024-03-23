@@ -27,8 +27,6 @@ public class AnimalInfo extends AppCompatActivity {
 
         String name = intent.getStringExtra("name");
 
-        //intent.getStringExtra("name")
-
         switch(name) {
             case "Dolphin":
                 txt.setText("There are currently 42 species of dolphins and seven species of porpoises.");
