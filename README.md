@@ -1,5 +1,6 @@
 # AnimalsApp 
-Basic app where you click on an animal to reveal a fun fact!
+Basic app where you click on an animal to reveal a fun fact! This project was made from a tutorial in this Udemy course: https://www.udemy.com/course/learn-android-app-development-from-scratch-with-java/
+I modified the description of the animals to have a fact about them.
 
 # What I Learned
 * Developed a user interface within the xml file using TextView, RecyclerView, LinearLayout, and CardView.
